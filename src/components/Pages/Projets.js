@@ -52,7 +52,7 @@ document.getElementById("contenu_popup").innerHTML = `
   ${card.imagef ? `<img src="${card.imagef}" alt="">` : ''}
   <h1>Description</h1>
   <p>${card.description}</p>
-  <a href="${card.git}">Lien du projet Git</a>
+  <a href="${card.git}" target="_blank" rel="noreferrer">Lien du projet Git</a>
   ${imagePopup}
   </div>
 `;

@@ -56,7 +56,7 @@ return(
   <NavLink className="navlink" to="/contact" activeclassname="active">Contact</NavLink>
   </div>
   <div className="divgit">
-    <a href="https://github.com/Ricama">
+    <a href="https://github.com/Ricama" target="_blank" rel="noreferrer" >
   <img id="menu" className="navgit" alt="Logo github" src={isHovered ? gitg : gitw} onMouseOver={handleMouseOver} onMouseOut={handleMouseOut} />
   </a>
   </div>
