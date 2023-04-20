@@ -26,7 +26,7 @@ export default function Skills() {
             <div className='cards_left'>
                     <div  className='card one_card'>
                         <h1>Formation</h1>
-                        <p>Jan 2022-2023 (en cours)</p>
+                        <p>Jan 2022-2023</p>
                         <p>Développeur d'application Java</p>
                         <p>Openclassrooms - Paris(75)</p>
                     </div>
