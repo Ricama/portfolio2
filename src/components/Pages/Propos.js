@@ -24,7 +24,7 @@ export default function Propos() {
           <h1 id='titre'>A propos</h1>
           </div>
           <h4>Bienvenue sur mon portfolio !</h4>
-            <p>Je m'appelle Steven, j'ai 23 ans et je suis actuellement à la recherche d'une entreprise afin d'effectuer une alternance pour un BTS SIO. Ce portfolio a été créé pour présenter mon parcours, mes compétences et mes réalisations en tant que développeur FullStack Junior.</p>
+            <p>Je m'appelle Steven, j'ai 23 ans et je suis actuellement à la recherche d'une entreprise afin d'effectuer une alternance. Ce portfolio a été créé pour présenter mon parcours, mes compétences et mes réalisations en tant que développeur FullStack Junior.</p>
             <a className='propos_link' id='cv' href='./' onClick={handleDownload}>Télécharger mon cv</a>
                  </div>
                  <div className='right_propos'>
